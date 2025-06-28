@@ -1,1 +1,1 @@
-Run `src/test/java/com/example/technogise/TechnogiseApplicationTests.java` this java class.
+Run `src/main/java/com/example/technogise/TechnogiseApplication.java` this java class.
